@@ -1,2 +1,2 @@
 # newTotally
-This is make something new 
+This is for making something new 
